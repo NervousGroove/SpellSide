@@ -15,4 +15,10 @@ https://nehasky.itch.io/swankysea
 ---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
 ---------------------------------
 
+![alt text](https://img.utdstc.com/screen/bd4/cb7/bd4cb7f51eb46f9c1b7be8c4a51bd41e4395dbc0f24a1e79bea8630f1a450ac3:800)
 
+![alt text](https://img.utdstc.com/screen/cc1/cc5/cc1cc5c6ef520a07019b0ca07c70d9de03e1600fd40b162f74e3f4a094158405:800)
+
+![alt text](https://img.utdstc.com/screen/9aa/97f/9aa97f088cc6676dfbdba4c32f2f1e725559e168aebd81deb0092bd0a358107b:800)
+
+![alt text](https://img.utdstc.com/screen/63f/a8d/63fa8d4bbd3bf30f132d8b65e8b1a02485621dfb485e7469a53d938a432a62a7:800)
