@@ -12,7 +12,7 @@ Our engine is not open-source, but it is free and is free of fees and charges.
 You can download SpellSide from our platform, SwankySea. Download SwankySea:
 https://nehasky.itch.io/swankysea
 
-# Use with Three.js
+# 🛸 Use with Three.js
 All functions and expressions from Three.js are compatible with SpellSide, enjoy!
 
 ---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
